@@ -1,0 +1,8 @@
+server:
+  port: 2333
+  address: 0.0.0.0
+  password: youshallnotpass
+
+spring:
+  main:
+    banner-mode: "off"
